@@ -1,1 +1,1 @@
-This module contains the server side controller to the Proffys app, required for it's both web and mobile modules to run.
+This module contains the server side controller to the Proffy app, required for it's both web ([nlw-proffy-webapp](https://github.com/joaokbmartins/nlw-proffy-webapp)) and mobile ([nlw-proffy-mobileapp](https://github.com/joaokbmartins/nlw-proffy-mobileapp)) modules to run.
